@@ -5,8 +5,7 @@ import {getFirestore} from "firebase/firestore"
 // https://firebase.google.com/docs/web/setup#available-libraries
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDT4-Cbxfvt3oNIbrWJ132pwlg2oX2Mfgc",
-  authDomain: "realtor-clone-react-c8273.firebaseapp.com",
+  
   projectId: "realtor-clone-react-c8273",
   storageBucket: "realtor-clone-react-c8273.appspot.com",
   messagingSenderId: "575612341729",
